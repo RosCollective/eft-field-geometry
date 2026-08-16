@@ -52,7 +52,7 @@ Field Geometry (EFT) forms part of a broader system:
 
 If you use or reference this work, please cite:
 
-> The ROS Collective (2026). *Field Geometry (EFT)* (v.1.0.6). 
+> The ROS Collective (2026). *Field Geometry (EFT)* (v1.0.7 — Critical Historical Edition). 
 
 For citations that should always resolve to the latest version, you may use the concept DOI:
 
@@ -88,6 +88,6 @@ Repository: https://github.com/RosCollective/EFT-HCI
 
 ---
 
-**Version:** Field Geometry (EFT) v1.0.5 — Canonical Release (2026)  
+**Version:** Field Geometry (EFT) v1.0.7 — Critical Historical Edition (2026)  
 **License:** Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)  
 **Copyright:** © 2025 The ROS Collective
