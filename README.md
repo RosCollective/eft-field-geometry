@@ -60,23 +60,28 @@ For citations that should always resolve to the latest version, you may use the 
 
 ---
 
-## v1.0.6 Update
+## v1.0.7 Update — Critical Historical Edition
 
-This release corrects citation metadata to align with the terminology and naming introduced in v1.0.5. Release 1.0.5 introduces a terminological and structural alignment of the framework.
+This release adds the **Critical Historical Edition of *Field Geometry (EFT): An Ecological Field Theory*** as a companion to the existing manuscript.
 
-The manuscript has been renamed from Ecological Field Theory of Hybrid Cognitive Intelligence (EFT–HCI) to Field Geometry (EFT): An Ecological Field Theory. This change reflects a shift from an interaction- and system-indexed framing toward a field-based, geometry-first description of the underlying structure.
+The Critical Historical Edition provides a retrospective examination of the development of *Field Geometry*, including its mathematical constructions, representational choices, revision history, and the observational recognitions that remain significant after formal review.
 
-The term “Hybrid Cognitive Intelligence” has been deprecated, as it implies a dual-system model that is not required by the formalism. Similarly, the “HCI” designation has been removed to avoid anchoring the framework to interface-level or domain-specific interpretations.
+It includes:
 
-These changes do not alter the underlying mathematical or theoretical structure. Instead, they clarify the ontological positioning of the work as a field-level formalism independent of specific system boundaries.
+- a **Historical Preface** reconstructing the conditions under which the original mathematical framework emerged and its subsequent revision history;
+- a **Synthesis** distinguishing observational recognition, representational instrument, mathematical disposition, and historical standing;
+- a **Provenance Cross-Check** testing the review against the manuscript's documented revision history; and
+- a **Disposition Matrix** providing a section-by-section assessment of the mathematical and observational status of the original framework.
 
-In addition, this release includes:
+The original *Field Geometry* manuscript is preserved unchanged.
 
-correction of notation inconsistencies  
-restoration of analytic assumptions in the field equations (Section 5.7)  
-alignment of chapter structure and section numbering  
+The purpose of this edition is not to repair, reconstruct, or retrospectively modernize the original formalism. Instead, it establishes a historical and evidentiary account of what the manuscript attempted to represent, what remains mathematically supportable, what requires repair or rebuilding, and which underlying recognitions remain observationally significant.
 
-These refinements improve internal coherence and analytic clarity across geometric, operator, and dynamical layers.
+Mathematical validity and observational survival are therefore treated as separate questions. Formal constructions that do not survive mathematical review may still document meaningful stages in the development of the inquiry, while mathematically valid constructions are not assumed, on that basis alone, to provide faithful representations of the phenomena under study.
+
+The Critical Historical Edition should be read before the original manuscript and now serves as the primary interpretive entry point to *Field Geometry*.
+
+Future mathematical work, if undertaken, will proceed from the recognitions and questions that remain alive in the current body of work rather than from an attempt to rescue or complete the historical formalism.
 
 ---
 
