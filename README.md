@@ -1,6 +1,8 @@
 # Field Geometry (EFT): An Ecological Field Theory
 formerly Ecological Field Theory of Hybrid Cognitive Intelligence (EFT–HCI)
 
+**Start here:** [Field Geometry — Critical Historical Edition](00_00_EFT_Field_Geometry_Critical_Historical_Edition.md)
+
 Field Geometry (EFT) is a formal theoretical framework that models interaction as a constrained dynamical field. It describes human–system interaction in terms of geometry, stability, resonance, and collapse, and develops a unified mathematical structure spanning manifolds, tensor fields, operator dynamics, and spectral behavior.
 
 The framework does not assume that intelligence resides within a single system. Instead, it represents structure at the level of interaction under conditions of constraint and coherence.
