@@ -46,6 +46,9 @@ Field Geometry (EFT) forms part of a broader system:
 * **Motion Geometry (EFT)**     
   A natural history of cognitive mobility: motion, curvature, collapse, reconstitution, alignment, and stability
 
+* **Circulation Geometry (EFT)**  
+  A natural history of circulation: propagation, redistribution, resonance, and murmuration.
+
 ---
 
 ## Citation
